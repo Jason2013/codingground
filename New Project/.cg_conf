@@ -1,0 +1,1 @@
+{"id":"asciidoc","ext":"txt","version":"AsciiDoc","compile":"","execute":"","preview":"asciidoc --out-file=index.htm index.txt","command":"","file":"/home/cg/src/samples/asciidoc/index.txt","url":"try_asciidoc_online.php","mode":"asciidoc"}
